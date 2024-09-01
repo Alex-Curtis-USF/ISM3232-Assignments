@@ -15,3 +15,18 @@ const productDetails = {
 };
 console.log(products);
 console.log(productDetails);
+
+//Task 3
+let accountBalance = 100;
+console.log(accountBalance);
+accountBalance += 100;
+console.log(accountBalance);
+accountBalance -= 100;
+console.log(accountBalance);
+accountBalance *= 2;
+console.log(accountBalance);
+accountBalance /= 2;
+console.log(accountBalance);
+accountBalance %= 5;
+console.log(accountBalance);
+
